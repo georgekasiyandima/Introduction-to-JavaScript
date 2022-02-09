@@ -234,7 +234,7 @@ Using the grade function below do the following:
 //Vowel Counter - How many vowels are there?
 /*
 Using the vowelCounter function below do the following:
-1. Receive a string as a parameter
+1. Receive a string as a parameters
 2. Count and return the number of vowels within that string.  It should handle both capitalized and uncapitalized vowels.
 
 HINT - you may need to study tomorrow's content on arrays 
